@@ -1,4 +1,4 @@
-const dadJokes = [
+[
     {
       "id": 1,
       "title": "Why don't scientists trust atoms?",
