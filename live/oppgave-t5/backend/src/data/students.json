@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Ola Nordmann",
+        "email": "ola@nordmann.no"
+    },
+    {
+        "id": 2,
+        "name": "Kari Nordmann",
+        "email": "kari@nordmann.no"
+    },
+    {
+        "id": 3,
+        "name": "Thor Andreas Holberg Murtnes-Hatlestad",
+        "email": "thoraho@hiof.no"
+    }
+]

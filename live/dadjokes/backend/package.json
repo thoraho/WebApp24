@@ -1,13 +1,11 @@
 {
   "name": "backend",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+
 	"scripts": {
-    "dev": "tsx --watch src/index.ts"
+    "dev": "tsx watch src/index.ts"
 	},
   "dependencies":{
-  "@hono/node-server": "^1.12.1",
+  "@hono/node-server": "^1.12.2",
   "hono": "^4.5.7"
   },
   "devDependencies": {
